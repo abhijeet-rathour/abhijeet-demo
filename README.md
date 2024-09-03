@@ -1,4 +1,4 @@
 # abhijeet-demo
 This is my first Git Repository.
 <br>
-Author - Abhijeet Rathour 
+Author - Abhijeet Rathour (git)
